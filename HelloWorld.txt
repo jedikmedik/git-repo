@@ -1,5 +1,6 @@
 
 public static void main(String[] args){
+	float fl = 0;
 	System.out.println("Hello World");
 	int a = 0;
 }
