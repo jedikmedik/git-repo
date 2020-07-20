@@ -1,5 +1,6 @@
 
 public static void main(String[] args){
+	float[] arr = new float[120];
 	float fl = 0;
 	String str = "Hello World";
 	System.out.println(str);
